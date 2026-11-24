@@ -1,0 +1,28 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets / local state
+.env
+*.db
+*.sqlite3
+var/
+services/api/var/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

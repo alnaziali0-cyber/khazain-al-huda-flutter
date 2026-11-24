@@ -1,0 +1,51 @@
+name: Build Android APK
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FLUTTER_VERSION: '3.35.7'
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Get dependencies
+        working-directory: apps/mobile
+        run: flutter pub get
+
+      - name: Build release APK
+        working-directory: apps/mobile
+        run: flutter build apk --release
+
+      - name: Rename APK
+        run: cp apps/mobile/build/app/outputs/flutter-apk/app-release.apk Khazain-Al-Huda.apk
+
+      - name: Upload workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Khazain-Al-Huda-APK
+          path: Khazain-Al-Huda.apk
+          retention-days: 90
+
+      - name: Publish GitHub release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Khazain-Al-Huda.apk
+          generate_release_notes: true

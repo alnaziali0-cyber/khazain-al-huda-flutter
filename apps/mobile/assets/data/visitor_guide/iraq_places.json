@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "title": "دليل الزائر في العراق",
+  "coverage_note": "هذه نسخة أولية محلية تضم مواقع دينية بارزة ذات إحداثيات منشورة. ليست سجلاً شاملاً لكل الجوامع والحسينيات والمراقد في العراق، ولا تمثل توثيقاً حكومياً أو اعتماداً من جهة دينية. يلزم تدقيق البيانات وإضافة بقية المواقع من مصادرها الرسمية قبل وصف الدليل بالشامل.",
+  "map_note": "الخريطة رسم جغرافي مبسّط مضمّن داخل التطبيق، وتعمل دون إنترنت. لا تعرض الشوارع أو المسارات ولا توفر ملاحة منعطفات.",
+  "items": [
+    {
+      "id": "najaf-imam-ali-shrine",
+      "name": "العتبة العلوية المقدسة – مرقد الإمام علي عليه السلام",
+      "governorate": "النجف",
+      "city": "النجف الأشرف",
+      "type": "shrine",
+      "description": "مرقد الإمام علي بن أبي طالب عليه السلام في مدينة النجف الأشرف.",
+      "latitude": 31.99578,
+      "longitude": 44.31267,
+      "coordinate_source": "Ziyarat Guide؛ يذكر أن الموقع من OpenStreetMap",
+      "source_url": "https://www.ziyaratguide.com/shrines/shrine-of-imam-ali",
+      "coordinate_status": "منشورة؛ يلزم التحقق الميداني من المدخل ونقطة الوصول"
+    },
+    {
+      "id": "kufa-great-mosque",
+      "name": "مسجد الكوفة المعظّم",
+      "governorate": "النجف",
+      "city": "الكوفة",
+      "type": "mosque",
+      "description": "المسجد التاريخي الكبير في مدينة الكوفة.",
+      "latitude": 32.02906,
+      "longitude": 44.4012,
+      "coordinate_source": "Mapcarta؛ بيانات OpenStreetMap وGeoNames وWikidata",
+      "source_url": "https://mapcarta.com/30925310",
+      "coordinate_status": "إحداثيات خرائط عامة؛ يلزم التحقق الميداني"
+    },
+    {
+      "id": "kufa-sahla-mosque",
+      "name": "مسجد السهلة المعظّم",
+      "governorate": "النجف",
+      "city": "الكوفة",
+      "type": "mosque",
+      "description": "مسجد السهلة، من المواقع الدينية المعروفة في الكوفة.",
+      "latitude": 32.03897,
+      "longitude": 44.37975,
+      "coordinate_source": "Mapcarta؛ معرّف معلم OpenStreetMap way 857865681",
+      "source_url": "https://mapcarta.com/W857865681",
+      "coordinate_status": "إحداثيات خرائط عامة؛ يلزم التحقق الميداني"
+    },
+    {
+      "id": "karbala-imam-husayn-shrine",
+      "name": "العتبة الحسينية المقدسة – مرقد الإمام الحسين عليه السلام",
+      "governorate": "كربلاء",
+      "city": "كربلاء المقدسة",
+      "type": "shrine",
+      "description": "مرقد الإمام الحسين بن علي عليه السلام في كربلاء.",
+      "latitude": 32.61639,
+      "longitude": 44.0325,
+      "coordinate_source": "إحداثيات منشورة في صفحة مرقد الإمام الحسين",
+      "source_url": "https://en.wikipedia.org/wiki/Imam_Husayn_Shrine",
+      "coordinate_status": "إحداثيات مرجعية منشورة؛ يلزم التحقق الميداني من نقطة المدخل"
+    },
+    {
+      "id": "karbala-abbas-shrine",
+      "name": "العتبة العباسية المقدسة – مرقد أبي الفضل العباس عليه السلام",
+      "governorate": "كربلاء",
+      "city": "كربلاء المقدسة",
+      "type": "shrine",
+      "description": "مرقد أبي الفضل العباس عليه السلام في كربلاء.",
+      "latitude": 32.61704,
+      "longitude": 44.03646,
+      "coordinate_source": "Mapcarta؛ بيانات GeoNames وWikidata وOpenStreetMap",
+      "source_url": "https://mapcarta.com/13119992",
+      "coordinate_status": "إحداثيات خرائط عامة؛ يلزم التحقق الميداني"
+    },
+    {
+      "id": "baghdad-kadhimain-shrine",
+      "name": "العتبة الكاظمية المقدسة – مرقد الإمامين الكاظمين عليهما السلام",
+      "governorate": "بغداد",
+      "city": "الكاظمية",
+      "type": "shrine",
+      "description": "مرقد الإمامين موسى بن جعفر الكاظم ومحمد بن علي الجواد عليهما السلام.",
+      "latitude": 33.38023,
+      "longitude": 44.33819,
+      "coordinate_source": "Mapcarta؛ معرّف معلم OpenStreetMap way 1245988816",
+      "source_url": "https://mapcarta.com/W1245988816",
+      "coordinate_status": "إحداثيات خرائط عامة؛ يلزم التحقق الميداني"
+    },
+    {
+      "id": "samarra-askari-shrine",
+      "name": "العتبة العسكرية المقدسة – مرقد الإمامين العسكريين عليهما السلام",
+      "governorate": "صلاح الدين",
+      "city": "سامراء",
+      "type": "shrine",
+      "description": "مرقد الإمامين علي الهادي والحسن العسكري عليهما السلام في سامراء.",
+      "latitude": 34.19893,
+      "longitude": 43.87353,
+      "coordinate_source": "Mapcarta؛ معرّف معلم OpenStreetMap way 1188251537",
+      "source_url": "https://mapcarta.com/W1188251537",
+      "coordinate_status": "إحداثيات خرائط عامة؛ يلزم التحقق الميداني"
+    },
+    {
+      "id": "babil-dhul-kifl",
+      "name": "مقام النبي ذي الكفل عليه السلام",
+      "governorate": "بابل",
+      "city": "الكفل",
+      "type": "shrine",
+      "description": "موقع ديني في ناحية الكفل بمحافظة بابل، وتُنسب إليه زيارة النبي ذي الكفل عليه السلام.",
+      "latitude": 32.22696,
+      "longitude": 44.36732,
+      "coordinate_source": "Mapcarta؛ معرّف معلم OpenStreetMap node 13174159577",
+      "source_url": "https://mapcarta.com/N13174159577",
+      "coordinate_status": "إحداثيات خرائط عامة؛ يلزم التحقق الميداني"
+    }
+  ]
+}

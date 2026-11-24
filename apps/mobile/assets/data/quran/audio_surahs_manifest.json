@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "title_ar": "فهرس التلاوات الصوتية للقرآن الكريم",
+  "total_surahs": 114,
+  "audio_status": "metadata_only_until_individual_recording_rights_are_verified",
+  "policy_ar": "يتضمن هذا الفهرس أسماء السور فقط ولا يتضمن أي تسجيل صوتي. لا يظهر أي تسجيل للمستخدم إلا بعد إدخاله في الكتالوج العام مع مصدر HTTPS ودليل إذن موثق وسماح بالبث. لا يُفعّل التنزيل أو التخزين دون اتصال إلا إذا نص الإذن على ذلك صراحة.",
+  "items": [
+    {
+      "number": 1,
+      "name_ar": "الفاتحة",
+      "ayah_count": 7,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 2,
+      "name_ar": "البقرة",
+      "ayah_count": 286,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 3,
+      "name_ar": "آل عمران",
+      "ayah_count": 200,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 4,
+      "name_ar": "النساء",
+      "ayah_count": 176,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 5,
+      "name_ar": "المائدة",
+      "ayah_count": 120,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 6,
+      "name_ar": "الأنعام",
+      "ayah_count": 165,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 7,
+      "name_ar": "الأعراف",
+      "ayah_count": 206,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 8,
+      "name_ar": "الأنفال",
+      "ayah_count": 75,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 9,
+      "name_ar": "التوبة",
+      "ayah_count": 129,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 10,
+      "name_ar": "يونس",
+      "ayah_count": 109,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 11,
+      "name_ar": "هود",
+      "ayah_count": 123,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 12,
+      "name_ar": "يوسف",
+      "ayah_count": 111,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 13,
+      "name_ar": "الرعد",
+      "ayah_count": 43,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 14,
+      "name_ar": "ابراهيم",
+      "ayah_count": 52,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 15,
+      "name_ar": "الحجر",
+      "ayah_count": 99,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 16,
+      "name_ar": "النحل",
+      "ayah_count": 128,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 17,
+      "name_ar": "الإسراء",
+      "ayah_count": 111,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 18,
+      "name_ar": "الكهف",
+      "ayah_count": 110,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 19,
+      "name_ar": "مريم",
+      "ayah_count": 98,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 20,
+      "name_ar": "طه",
+      "ayah_count": 135,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 21,
+      "name_ar": "الأنبياء",
+      "ayah_count": 112,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 22,
+      "name_ar": "الحج",
+      "ayah_count": 78,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 23,
+      "name_ar": "المؤمنون",
+      "ayah_count": 118,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 24,
+      "name_ar": "النور",
+      "ayah_count": 64,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 25,
+      "name_ar": "الفرقان",
+      "ayah_count": 77,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 26,
+      "name_ar": "الشعراء",
+      "ayah_count": 227,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 27,
+      "name_ar": "النمل",
+      "ayah_count": 93,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 28,
+      "name_ar": "القصص",
+      "ayah_count": 88,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 29,
+      "name_ar": "العنكبوت",
+      "ayah_count": 69,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 30,
+      "name_ar": "الروم",
+      "ayah_count": 60,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 31,
+      "name_ar": "لقمان",
+      "ayah_count": 34,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 32,
+      "name_ar": "السجدة",
+      "ayah_count": 30,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 33,
+      "name_ar": "الأحزاب",
+      "ayah_count": 73,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 34,
+      "name_ar": "سبإ",
+      "ayah_count": 54,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 35,
+      "name_ar": "فاطر",
+      "ayah_count": 45,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 36,
+      "name_ar": "يس",
+      "ayah_count": 83,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 37,
+      "name_ar": "الصافات",
+      "ayah_count": 182,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 38,
+      "name_ar": "ص",
+      "ayah_count": 88,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 39,
+      "name_ar": "الزمر",
+      "ayah_count": 75,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 40,
+      "name_ar": "غافر",
+      "ayah_count": 85,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 41,
+      "name_ar": "فصلت",
+      "ayah_count": 54,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 42,
+      "name_ar": "الشورى",
+      "ayah_count": 53,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 43,
+      "name_ar": "الزخرف",
+      "ayah_count": 89,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 44,
+      "name_ar": "الدخان",
+      "ayah_count": 59,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 45,
+      "name_ar": "الجاثية",
+      "ayah_count": 37,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 46,
+      "name_ar": "الأحقاف",
+      "ayah_count": 35,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 47,
+      "name_ar": "محمد",
+      "ayah_count": 38,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 48,
+      "name_ar": "الفتح",
+      "ayah_count": 29,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 49,
+      "name_ar": "الحجرات",
+      "ayah_count": 18,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 50,
+      "name_ar": "ق",
+      "ayah_count": 45,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 51,
+      "name_ar": "الذاريات",
+      "ayah_count": 60,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 52,
+      "name_ar": "الطور",
+      "ayah_count": 49,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 53,
+      "name_ar": "النجم",
+      "ayah_count": 62,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 54,
+      "name_ar": "القمر",
+      "ayah_count": 55,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 55,
+      "name_ar": "الرحمن",
+      "ayah_count": 78,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 56,
+      "name_ar": "الواقعة",
+      "ayah_count": 96,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 57,
+      "name_ar": "الحديد",
+      "ayah_count": 29,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 58,
+      "name_ar": "المجادلة",
+      "ayah_count": 22,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 59,
+      "name_ar": "الحشر",
+      "ayah_count": 24,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 60,
+      "name_ar": "الممتحنة",
+      "ayah_count": 13,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 61,
+      "name_ar": "الصف",
+      "ayah_count": 14,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 62,
+      "name_ar": "الجمعة",
+      "ayah_count": 11,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 63,
+      "name_ar": "المنافقون",
+      "ayah_count": 11,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 64,
+      "name_ar": "التغابن",
+      "ayah_count": 18,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 65,
+      "name_ar": "الطلاق",
+      "ayah_count": 12,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 66,
+      "name_ar": "التحريم",
+      "ayah_count": 12,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 67,
+      "name_ar": "الملك",
+      "ayah_count": 30,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 68,
+      "name_ar": "القلم",
+      "ayah_count": 52,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 69,
+      "name_ar": "الحاقة",
+      "ayah_count": 52,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 70,
+      "name_ar": "المعارج",
+      "ayah_count": 44,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 71,
+      "name_ar": "نوح",
+      "ayah_count": 28,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 72,
+      "name_ar": "الجن",
+      "ayah_count": 28,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 73,
+      "name_ar": "المزمل",
+      "ayah_count": 20,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 74,
+      "name_ar": "المدثر",
+      "ayah_count": 56,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 75,
+      "name_ar": "القيامة",
+      "ayah_count": 40,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 76,
+      "name_ar": "الانسان",
+      "ayah_count": 31,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 77,
+      "name_ar": "المرسلات",
+      "ayah_count": 50,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 78,
+      "name_ar": "النبإ",
+      "ayah_count": 40,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 79,
+      "name_ar": "النازعات",
+      "ayah_count": 46,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 80,
+      "name_ar": "عبس",
+      "ayah_count": 42,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 81,
+      "name_ar": "التكوير",
+      "ayah_count": 29,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 82,
+      "name_ar": "الإنفطار",
+      "ayah_count": 19,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 83,
+      "name_ar": "المطففين",
+      "ayah_count": 36,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 84,
+      "name_ar": "الإنشقاق",
+      "ayah_count": 25,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 85,
+      "name_ar": "البروج",
+      "ayah_count": 22,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 86,
+      "name_ar": "الطارق",
+      "ayah_count": 17,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 87,
+      "name_ar": "الأعلى",
+      "ayah_count": 19,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 88,
+      "name_ar": "الغاشية",
+      "ayah_count": 26,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 89,
+      "name_ar": "الفجر",
+      "ayah_count": 30,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 90,
+      "name_ar": "البلد",
+      "ayah_count": 20,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 91,
+      "name_ar": "الشمس",
+      "ayah_count": 15,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 92,
+      "name_ar": "الليل",
+      "ayah_count": 21,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 93,
+      "name_ar": "الضحى",
+      "ayah_count": 11,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 94,
+      "name_ar": "الشرح",
+      "ayah_count": 8,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 95,
+      "name_ar": "التين",
+      "ayah_count": 8,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 96,
+      "name_ar": "العلق",
+      "ayah_count": 19,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 97,
+      "name_ar": "القدر",
+      "ayah_count": 5,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 98,
+      "name_ar": "البينة",
+      "ayah_count": 8,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 99,
+      "name_ar": "الزلزلة",
+      "ayah_count": 8,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 100,
+      "name_ar": "العاديات",
+      "ayah_count": 11,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 101,
+      "name_ar": "القارعة",
+      "ayah_count": 11,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 102,
+      "name_ar": "التكاثر",
+      "ayah_count": 8,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 103,
+      "name_ar": "العصر",
+      "ayah_count": 3,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 104,
+      "name_ar": "الهمزة",
+      "ayah_count": 9,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 105,
+      "name_ar": "الفيل",
+      "ayah_count": 5,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 106,
+      "name_ar": "قريش",
+      "ayah_count": 4,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 107,
+      "name_ar": "الماعون",
+      "ayah_count": 7,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 108,
+      "name_ar": "الكوثر",
+      "ayah_count": 3,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 109,
+      "name_ar": "الكافرون",
+      "ayah_count": 6,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 110,
+      "name_ar": "النصر",
+      "ayah_count": 3,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 111,
+      "name_ar": "المسد",
+      "ayah_count": 5,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 112,
+      "name_ar": "الإخلاص",
+      "ayah_count": 4,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 113,
+      "name_ar": "الفلق",
+      "ayah_count": 5,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    },
+    {
+      "number": 114,
+      "name_ar": "الناس",
+      "ayah_count": 6,
+      "category": "quran",
+      "audio_status": "awaiting_verified_recording"
+    }
+  ]
+}

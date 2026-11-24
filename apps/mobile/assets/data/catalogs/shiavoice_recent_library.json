@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "source": {
+    "name_ar": "صوت الشيعة",
+    "website": "https://shiavoice.com/",
+    "rights_status": "reference_only_permission_for_reuse_unconfirmed",
+    "notice_ar": "هذه نسخة بيانات وصفية مستوردة من تصدير المستخدم، وليست مكتبة صوتية كاملة أو تصريحاً لإعادة نشر التسجيلات. لا يخزّن التطبيق الصوت ولا ينزّله؛ يفتح صفحة التسجيل لدى المصدر الأصلي. التطبيق غير تابع رسمياً لموقع صوت الشيعة."
+  },
+  "exported_at": "2026-11-22T21:46:23.262Z",
+  "recent": [
+    {
+      "id": "6r76f",
+      "title": "أصرخ وقلبي حزين",
+      "artist": "أبو بشير النجفي",
+      "page_path": "/play-6r76f",
+      "artist_path": "/@abu-bashir-alnajfi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/abo_basher.jpg",
+      "duration_seconds": 962,
+      "category": "poems"
+    },
+    {
+      "id": "np16c",
+      "title": "توادعنا",
+      "artist": "أبو بشير النجفي",
+      "page_path": "/play-np16c",
+      "artist_path": "/@abu-bashir-alnajfi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/abo_basher.jpg",
+      "duration_seconds": 686,
+      "category": "poems",
+      "release_category_id": "2376"
+    },
+    {
+      "id": "UGcNT",
+      "title": "أذان",
+      "artist": "عبدالله الصادق",
+      "page_path": "/play-UGcNT",
+      "artist_path": "/@eabdallah-alsadiq",
+      "cover_url": "https://shiavoice.com/assets/img/cats/none.jpg",
+      "duration_seconds": 374,
+      "category": "adhan"
+    },
+    {
+      "id": "Vncnc",
+      "title": "أذان",
+      "artist": "محمود صالح العاملي",
+      "page_path": "/play-Vncnc",
+      "artist_path": "/@mahmud-salih-aleamili",
+      "cover_url": "https://shiavoice.com/assets/img/cats/none.jpg",
+      "duration_seconds": 290,
+      "category": "adhan"
+    },
+    {
+      "id": "2mSC7",
+      "title": "أذان",
+      "artist": "آخر",
+      "page_path": "/play-2mSC7",
+      "artist_path": "/@akhr",
+      "cover_url": "https://shiavoice.com/assets/img/cats/none.jpg",
+      "duration_seconds": 308,
+      "category": "adhan"
+    },
+    {
+      "id": "0wonG",
+      "title": "أذان",
+      "artist": "أباذر الحلواجي",
+      "page_path": "/play-0wonG",
+      "artist_path": "/@abather-alhalwachi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/abathar_elhlwachi.jpg",
+      "duration_seconds": 316,
+      "category": "adhan"
+    },
+    {
+      "id": "gDat2",
+      "title": "أذان",
+      "artist": "سعيد طوسي",
+      "page_path": "/play-gDat2",
+      "artist_path": "/@saeid-tusi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/saed_tusi.jpg",
+      "duration_seconds": 537,
+      "category": "adhan"
+    },
+    {
+      "id": "pJIqv",
+      "title": "أذان - مقام الكرد",
+      "artist": "سعيد طوسي",
+      "page_path": "/play-pJIqv",
+      "artist_path": "/@saeid-tusi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/saed_tusi.jpg",
+      "duration_seconds": 333,
+      "category": "adhan"
+    },
+    {
+      "id": "Ly7xW",
+      "title": "أذان - مقام حجاز",
+      "artist": "سعيد طوسي",
+      "page_path": "/play-Ly7xW",
+      "artist_path": "/@saeid-tusi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/saed_tusi.jpg",
+      "duration_seconds": 297,
+      "category": "adhan"
+    },
+    {
+      "id": "beyzx",
+      "title": "أذان",
+      "artist": "حسين العريان",
+      "page_path": "/play-beyzx",
+      "artist_path": "/@husayn-aleuryan",
+      "cover_url": "https://shiavoice.com/assets/img/cats/hussein_el3urian.jpg",
+      "duration_seconds": 315,
+      "category": "adhan"
+    },
+    {
+      "id": "tDaZF",
+      "title": "أذان",
+      "artist": "ابو مهند الدراجي",
+      "page_path": "/play-tDaZF",
+      "artist_path": null,
+      "cover_url": "https://shiavoice.com/assets/img/cats/none.jpg",
+      "duration_seconds": 403,
+      "category": "adhan"
+    },
+    {
+      "id": "Rg5G7",
+      "title": "الأذان",
+      "artist": "على فانى",
+      "page_path": "/play-Rg5G7",
+      "artist_path": "/@ali-fani",
+      "cover_url": "https://shiavoice.com/assets/img/cats/ali_fani.jpg",
+      "duration_seconds": 216,
+      "category": "adhan"
+    },
+    {
+      "id": "4NNpN",
+      "title": "دعاء يامظهر",
+      "artist": "جعفر القشعمي",
+      "page_path": "/play-4NNpN",
+      "artist_path": "/@jaefar-alqashemi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/je3fer_elqesh3emi.jpg",
+      "duration_seconds": 221,
+      "category": "duas"
+    },
+    {
+      "id": "7xzhd",
+      "title": "دعاءه (ع) في يوم الاثنين",
+      "artist": "الحاج ميثم كاظم",
+      "page_path": "/play-7xzhd",
+      "artist_path": "/@mithum-kazim",
+      "cover_url": "https://shiavoice.com/assets/img/cats/maytham_kazim.jpg",
+      "duration_seconds": 397,
+      "category": "duas"
+    },
+    {
+      "id": "9mbux",
+      "title": "الهي وسيدي فأسألك بالقدرة التي قدرتها",
+      "artist": "السيد مصطفى الموسوي",
+      "page_path": "/play-9mbux",
+      "artist_path": "/@mustafa-almuswi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/mustafa-almuswi.jpg",
+      "duration_seconds": 196,
+      "category": "duas"
+    },
+    {
+      "id": "jYS4T",
+      "title": "هي أم البنين",
+      "artist": "جعفر الدرازي",
+      "page_path": "/play-jYS4T",
+      "artist_path": "/@jaefar-aldrazi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/je3fer_eldurazi.jpg",
+      "duration_seconds": 1334,
+      "category": "poems"
+    },
+    {
+      "id": "PruxF",
+      "title": "وفاة أم البنين",
+      "artist": "السيد هاشم الهاشم",
+      "page_path": "/play-PruxF",
+      "artist_path": "/@hashim-alhashm",
+      "cover_url": "https://shiavoice.com/assets/img/cats/hashem_elhashem.jpg",
+      "duration_seconds": 2418,
+      "category": "poems"
+    },
+    {
+      "id": "Mwf9J",
+      "title": "تسبيح الزهراء كماء زمزم وهو لكل امر",
+      "artist": "الشيخ فاضل المالكي",
+      "page_path": "/play-Mwf9J",
+      "artist_path": "/@fadil-almaliki",
+      "cover_url": "https://shiavoice.com/assets/img/cats/fazel_maleki.jpg",
+      "duration_seconds": 163,
+      "category": "duas"
+    },
+    {
+      "id": "CLmkP",
+      "title": "كتاب فضل القرآن",
+      "artist": "محمد الميل",
+      "page_path": "/play-CLmkP",
+      "artist_path": "/@muhamad-almil",
+      "cover_url": "https://shiavoice.com/assets/img/cats/none.jpg",
+      "duration_seconds": 1716,
+      "category": "quran"
+    },
+    {
+      "id": "9p83z",
+      "title": "سورة البقرة",
+      "artist": "عامر الكاظمي",
+      "page_path": "/play-9p83z",
+      "artist_path": "/@eamir-alkazimii",
+      "cover_url": "https://shiavoice.com/assets/img/cats/3amer_elkazemi.jpg",
+      "duration_seconds": 8446,
+      "category": "quran"
+    },
+    {
+      "id": "HX7CP",
+      "title": "سورة الناس",
+      "artist": "أحمد الدباغ",
+      "page_path": "/play-HX7CP",
+      "artist_path": "/@ahmad-aldabagh",
+      "cover_url": "https://shiavoice.com/assets/img/cats/ahmed_eldebak.jpg",
+      "duration_seconds": 41,
+      "category": "quran"
+    },
+    {
+      "id": "w0xsh",
+      "title": "ما تيسر من سورة مريم",
+      "artist": "أحمد أبو القاسمي",
+      "page_path": "/play-w0xsh",
+      "artist_path": "/@ahmad-abu-alqasimi",
+      "cover_url": "https://shiavoice.com/assets/img/cats/ahmad-abu-alqasimi-a6c35756.jpg",
+      "duration_seconds": 951,
+      "category": "quran",
+      "release_category_id": "4989"
+    },
+    {
+      "id": "TDSYc",
+      "title": "ما تيسر من سورة النمل",
+      "artist": "أحمد إبراهيم شعبان",
+      "page_path": "/play-TDSYc",
+      "artist_path": "/@ahmad-iibrahim-shaeban",
+      "cover_url": "https://shiavoice.com/assets/img/cats/ahmed_abrahim_sh3ban.jpg",
+      "duration_seconds": 1247,
+      "category": "quran",
+      "release_category_id": "8256"
+    },
+    {
+      "id": "5d76y",
+      "title": "ما تيسر من سورة البقرة",
+      "artist": "أبو العينين شعيشع",
+      "page_path": "/play-5d76y",
+      "artist_path": "/@abu-aleaynayn-sheayshe",
+      "cover_url": "https://shiavoice.com/assets/img/cats/abu_el3inin.jpg",
+      "duration_seconds": 816,
+      "category": "quran",
+      "release_category_id": "1198"
+    },
+    {
+      "id": "woJ8C",
+      "title": "ما تيسر من سورة الأحزاب",
+      "artist": "إبراهيم المنصورى",
+      "page_path": "/play-woJ8C",
+      "artist_path": "/@iibrahim-almansuraa",
+      "cover_url": "https://shiavoice.com/assets/img/cats/abrahim_elmensuri.jpg",
+      "duration_seconds": 1769,
+      "category": "quran",
+      "release_category_id": "8218"
+    },
+    {
+      "id": "Y5zWr",
+      "title": "ما تيسر من سورة الاحزاب",
+      "artist": "إبراهيم السيد إبراهيم",
+      "page_path": "/play-Y5zWr",
+      "artist_path": "/@iibrahim-alsyd-iibrahim",
+      "cover_url": "https://shiavoice.com/assets/img/cats/abrahim_said_abrahim.jpg",
+      "duration_seconds": 978,
+      "category": "quran",
+      "release_category_id": "8384"
+    }
+  ],
+  "favorites": {
+    "track": [],
+    "cat": [],
+    "artist": [],
+    "playlist": [],
+    "tag": []
+  },
+  "playlists": [],
+  "queue": {
+    "track_ids": [
+      "np16c"
+    ],
+    "index": 0,
+    "shuffle": false,
+    "repeat": "off"
+  },
+  "category_labels_ar": {
+    "all": "الكل",
+    "quran": "القرآن",
+    "adhan": "الأذان",
+    "duas": "الأدعية والأذكار",
+    "poems": "قصائد ومقاطع أخرى"
+  },
+  "category_note_ar": "التقسيم داخل التطبيق استنتاج تنظيمي من عناوين سجل الاستماع، وليس تصنيفاً رسمياً من موقع المصدر.",
+  "source_export_version": 1,
+  "favorites_meta": {
+    "track": [],
+    "cat": [],
+    "artist": [],
+    "playlist": [],
+    "tag": []
+  }
+}
